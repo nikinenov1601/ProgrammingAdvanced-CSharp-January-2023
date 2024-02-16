@@ -28,15 +28,7 @@ Advanced Programming Concepts with C# delves deeper into the intricacies of the 
 
 9. Iterators and Comparators:
   - Understanding iterators and comparators to customize data traversal and sorting operations, optimizing data processing in C# programs.
-  
-During the course of this module we were also able to participate in lectures aiming to give us foundational understadning on topics such as: 
-  - Git and GitHub
-  - HTTP Basics
-  - HTML & CSS Basics
-  - Software Development Concepts - Part 1
-  - Software Development Concepts - Part 2
-  - Bitwise Operations
-  - Problem Solving
+
 
 Upon successful completion of the Advanced Programming with C# course and passing the examinations, participants will be awarded C# Advanced Certificate, showcasing their expertise in utilizing advanced C# concepts and techniques.
 
